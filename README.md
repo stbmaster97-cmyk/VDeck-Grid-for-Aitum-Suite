@@ -6,6 +6,8 @@ HTML Virtual deck Grid version Get All Custom Canvas and Outputs from Aitum Suit
 
 You can find the first version NO GRID on: https://obsproject.com/forum/resources/vdeck-for-aitum-suite.2366
 
+Note: This was created for dual pc with a smal setup touchscreen or external device Smartphone or tablet, for one pc Setup run your game in Windowed Borderless or Fullscreen Borderless
+
 <img width="1500" height="500" alt="image" src="https://github.com/user-attachments/assets/4daff783-0325-40c6-beac-6546270cdcf3" />
 
 <img width="202" height="400" alt="image" src="https://github.com/user-attachments/assets/a37e6f95-14ae-4ad6-be84-4f0f678a6e47" />
