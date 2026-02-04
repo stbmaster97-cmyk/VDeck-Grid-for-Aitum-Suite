@@ -2,7 +2,7 @@
 
 This has no relation to the Aitum team; it's an unofficial code.
 
-HTML Virtual deck Grid Verison Get All Custom Canvas and Outputs from Aitum Suite with Websocket.
+HTML Virtual deck Grid version Get All Custom Canvas and Outputs from Aitum Suite with Websocket.
 
 You can find the fist version NO GRID on: https://obsproject.com/forum/resources/vdeck-for-aitum-suite.2366
 
