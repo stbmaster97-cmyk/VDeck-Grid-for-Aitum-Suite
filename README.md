@@ -7,7 +7,7 @@ HTML Virtual deck Grid version Get All Custom Canvas and Outputs from Aitum Suit
 You can find the first version NO GRID on: https://obsproject.com/forum/resources/vdeck-for-aitum-suite.2366
 
 Note: This was created for dual pc setup with a small touchscreen or external device Smartphone or tablet, for one pc Setup run your game in Windowed Borderless or Fullscreen Borderless.
-Audio need to have obs on the same device.
+Audio need to have obs on the same device for now probably will add a option to select media sources.
 
 <img width="1500" height="500" alt="image" src="https://github.com/user-attachments/assets/4daff783-0325-40c6-beac-6546270cdcf3" />
 
