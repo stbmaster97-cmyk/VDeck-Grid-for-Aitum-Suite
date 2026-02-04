@@ -14,7 +14,7 @@ You can find the first version NO GRID on: https://obsproject.com/forum/resource
 
 <img width="200" height="400" alt="image" src="https://github.com/user-attachments/assets/ca953e6a-8eb7-4acf-a330-bd186fc0a05c" />
 
-
+  
 **Hybrid Control:** Manage Main OBS (Stream, Rec, Replay) and Aitum Suite scenes side-by-side in one unified interface.
 
 **Real-Time Sync:** "State-aware" buttons pulse Green (Ready) or Red (Live) instantly, reflecting your actual OBS status via WebSocket events.
