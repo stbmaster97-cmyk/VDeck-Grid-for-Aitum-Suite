@@ -1,4 +1,4 @@
-# VDeck for Aitum Suite
+# VDeck Grid for Aitum Suite
 
 This has no relation to the Aitum team; it's an unofficial code.
 
